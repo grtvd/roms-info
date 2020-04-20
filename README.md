@@ -29,7 +29,7 @@ Find Business|Select Location|Add Location
 
 ### Choosing Menu Items
 
-Select Item|Add New Item|Customize
+Select Item|Add New Item|Customize Item
 ---|---|--
 <img src="files/FindMenuItem.png" alt="Find Menu Item" width="230">|<img src="files/EditMenuItem.png" alt="Menu Item" width="230">|<img src="files/EditOrderItem.png" alt="Edit Order Item" width="230">
 
@@ -41,9 +41,9 @@ Review Order|Place Order|Order Placed
 
 ### Order History
 
-|Order History|
-|---|
-|<img src="files/OrderHistory.png" alt="Order History" width="230">|
+Order History|Search Orders|Business Orders
+---|---|---
+<img src="files/OrderHistory.png" alt="Order History" width="230">|<img src="files/FindOrders.png" alt="Search Orders" width="230">|<img src="files/BusinessOrders.png" alt="Business Orders" width="230">
 
 
 ### Authentication
