@@ -11,7 +11,7 @@ Search your order history to see when you last visited a place. Review your note
 
 Businesses, locations and menus are community maintained. If your favorite business or location hasn't been added yet, you can add it.
 
-If your favorite menu items haven't been added yet, you can add it. No more having those less than great fish tacos, that you didn't remember you having before.
+If your favorite menu items haven't been added yet, you can add them. No more having those less than great fish tacos, that you didn't remember having before.
 
 Happy meals!
 
